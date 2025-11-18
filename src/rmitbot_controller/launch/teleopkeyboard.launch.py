@@ -30,5 +30,3 @@ def generate_launch_description():
             teleop_keyboard, 
         ]
     )
-    
-    
